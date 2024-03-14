@@ -220,11 +220,11 @@ nav{
     }
 
     .contact-me ul{
-            flex: 0 30% 70%;
+            flex: 0 50% 80%;
             max-width: 100%;
     }
     .contact-me li{
-      font-size: 1em;
+      font-size: 100%;
     }
 
     section:last-child {
