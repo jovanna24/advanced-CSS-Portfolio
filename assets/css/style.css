@@ -199,7 +199,8 @@ nav{
     box-shadow: inset 0px 0px 8px pink, 0 0 15px pink;
     margin: 1em;
     text-align: center;
-    padding: 2em;
+    padding: 1.5em 2em;
+    font-size: 1.5em;
  }
 
  footer{
@@ -221,6 +222,9 @@ nav{
     .contact-me ul{
             flex: 0 30% 70%;
             max-width: 100%;
+    }
+    .contact-me li{
+      font-size: 1em;
     }
 
     section:last-child {
