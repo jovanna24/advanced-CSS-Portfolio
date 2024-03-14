@@ -222,10 +222,8 @@ nav{
             max-width: 100%;
     }
     .contact-me li{
-        font-size: 1rem;
+        font-size: smaller;
     }
-   
-
     section:last-child {
       flex-grow: 1;
     }
