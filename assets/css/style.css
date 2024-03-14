@@ -81,11 +81,11 @@ nav{
  }
 
  a:link{
-    color: var(--pink);
+    color: white;
  }
 
  a:visited{
-    color: white;
+    color: bisque;
  }
  
  a:focus{
